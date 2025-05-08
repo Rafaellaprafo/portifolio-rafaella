@@ -6,8 +6,8 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, sans-serif;
-  color: #333;
-  background-color: #f7f7f7;
+  color: #740505;
+  background-color: #ffeecb;
 }
 
 .container-principal {
@@ -17,8 +17,8 @@ body {
 }
 
 .cabecalho {
-  background: #4a90e2;
-  color: #fff;
+  background: #7c0909;
+  color: #fff1c2;
   text-align: center;
   padding: 2rem 1rem;
 }
@@ -92,7 +92,7 @@ body {
 .rodape {
   text-align: center;
   padding: 1rem;
-  background: #4a90e2;
-  color: #fff;
+  background: #8d0505;
+  color: #ffe5b5;
   margin-top: auto;
 }
